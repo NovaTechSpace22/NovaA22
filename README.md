@@ -1,6 +1,6 @@
 # NovaA22
 Hello World,!
-<h3 align="center">Coding the Future, One Line at a Timeper from India</h3>
+<h3 align="center">Coding the Future, One Line at a Time</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
