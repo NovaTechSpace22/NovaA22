@@ -1,4 +1,4 @@
-# NovaA22
+# Nova
 Hello World,!
 <h3 align="center">Coding the Future, One Line at a Time</h3>
 
